@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chromium 73.0.3683 / Ubuntu 0.0.0" tests="1" failures="0" skipped="0" errors="0" time="2.624" timestamp="Sat, 06 Apr 2019 04:23:46 GMT" >
+  <testcase classname="Getting Started" name="My first test" time="2.604">
+  </testcase>
+</testsuite>

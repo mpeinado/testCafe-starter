@@ -1,0 +1,27 @@
+{
+  "name": "testcafe-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpeinado/testCafe-starter.git"
+  },
+  "author": "marco.peinado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpeinado/testCafe-starter/issues"
+  },
+  "homepage": "https://github.com/mpeinado/testCafe-starter#readme",
+  "dependencies": {
+    "axe-testcafe": "^1.1.0",
+    "testcafe-reporter-html": "^1.4.4",
+    "testcafe-reporter-xunit": "^2.1.0"
+  }
+}
